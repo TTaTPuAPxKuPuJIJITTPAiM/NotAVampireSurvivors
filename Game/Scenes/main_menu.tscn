@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=3 uid="uid://bdvt280xxhxw2"]
+
+[ext_resource type="Texture2D" uid="uid://m1dfh0vkxh2n" path="res://Game/Assets/MainMenu.png" id="1_rgvil"]
+
+[node name="MainMenu" type="Node2D"]
+
+[node name="MainMenu" type="Sprite2D" parent="."]
+position = Vector2(1052, 572)
+texture = ExtResource("1_rgvil")
+
+[node name="Camera2D" type="Camera2D" parent="MainMenu"]
+position = Vector2(-3.0517578e-05, 0)
+scale = Vector2(-755.56464, 21.669703)
+zoom = Vector2(0.6, 0.6)
+
+[node name="Button" type="Button" parent="."]
+offset_left = 963.0
+offset_top = 929.0
+offset_right = 1140.0
+offset_bottom = 1027.0
+text = "Play"
