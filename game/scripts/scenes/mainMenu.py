@@ -9,6 +9,7 @@ class MainMenu():
 
         self.displaySurface = displaySurface
 
+
     def update(self):
         pass
 
@@ -16,5 +17,5 @@ class MainMenu():
         self.displaySurface.blit(self.bgimage, (0, 0))
 
     def run(self):
-        self.update()
+        #self.update()
         self.draw()

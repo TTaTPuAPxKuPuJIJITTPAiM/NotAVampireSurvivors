@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e5aff-de62-402d-be7d-7c3fa3456f38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/config/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/config/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/cfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/scripts/scenes/mainMenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/scripts/scenes/mainMenu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +29,18 @@
     <setting file="file://$PROJECT_DIR$/game/NotAVampireSurvivors.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/game/config/cfg.py" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="34XTfKgh89SnRmMW62f91IvA9Ce" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectStartupLocalConfiguration">
+    <configurations>
+      <configuration id="Python.NotAVampireSurvivors" name="NotAVampireSurvivors" />
+    </configurations>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,17 +51,45 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.NotAVampireSurvivors.executor": "Run",
     "Python.asd.executor": "Run",
+    "Python.gamno.executor": "Run",
     "Python.mainMenu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.startup.tasks"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PythonProjects\NotAVampireSurvivors\game\scripts\scenes" />
       <recent name="D:\Python\PythonProjects\NotAVampireSurvivors\game\config" />
       <recent name="D:\Python\PythonProjects\NotAVampireSurvivors\game" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NotAVampireSurvivors" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NotAVampireSurvivors" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (NotAVampireSurvivors)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
