@@ -5,7 +5,8 @@ from game.config.cfg import *
 class MainMenu():
     def __init__(self, displaySurface):
         self.bgimage = pygame.image.load(ASSETS_PATH + "mainmenu.png").convert()
-        # self.bgimage = pygame.transform.scale(self.bgimage,(WINDOW_WIDTH, WINDOW_WIDTH))
+
+        self.button_play = pygame.image.load(ASSETS_PATH + "Play_button.png").convert()
 
         self.displaySurface = displaySurface
 
@@ -15,6 +16,8 @@ class MainMenu():
 
     def draw(self):
         self.displaySurface.blit(self.bgimage, (0, 0))
+
+        self.displaySurface.blit(self.button_play, (864, 880))
 
     def run(self):
         #self.update()
