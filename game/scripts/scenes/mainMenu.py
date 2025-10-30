@@ -2,7 +2,7 @@ import pygame
 
 from game.config.cfg import *
 
-class MainMenu():
+class MainMenu:
     def __init__(self, displaySurface):
         self.bgimage = pygame.image.load(ASSETS_PATH + "mainmenu.png").convert()
 
@@ -12,7 +12,7 @@ class MainMenu():
 
 
     def update(self):
-        pass
+        pygame.display.update()
 
     def draw(self):
         self.displaySurface.blit(self.bgimage, (0, 0))
@@ -20,5 +20,5 @@ class MainMenu():
         self.displaySurface.blit(self.button_play, (864, 880))
 
     def run(self):
-        #self.update()
+        self.update()
         self.draw()
