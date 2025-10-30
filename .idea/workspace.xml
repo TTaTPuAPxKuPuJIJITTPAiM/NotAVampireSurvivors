@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="366e5aff-de62-402d-be7d-7c3fa3456f38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NotAVampireSurvivors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NotAVampireSurvivors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/NotAVampireSurvivors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/config/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/cfg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/scripts/scenes/mainMenu.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/scripts/scenes/mainMenu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +38,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectStartupLocalConfiguration">
-    <configurations>
-      <configuration id="Python.NotAVampireSurvivors" name="NotAVampireSurvivors" />
-    </configurations>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,12 +47,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.NotAVampireSurvivors.executor": "Run",
     "Python.asd.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.gamno.executor": "Run",
     "Python.mainMenu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -68,7 +65,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="NotAVampireSurvivors" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python">
       <module name="NotAVampireSurvivors" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +74,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.11 (NotAVampireSurvivors)" />
+      <option name="SDK_NAME" value="Python 3.11 virtualenv at D:\Python\PythonProjects\NotAVampireSurvivors\.venv" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />

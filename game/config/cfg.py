@@ -4,5 +4,5 @@
 ASSETS_PATH = "D:/Python/PythonProjects/NotAVampireSurvivors/game/assets/"
 
 # window settings
-window_width = 1920
-window_height = 1080
+WINDOW_WIDTH = 1920
+WINDOW_HEIGHT = 1080
